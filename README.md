@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kirthi</h1>
-<h3 align="center">A passionate frontend developer working Freelance with American Agencies</h3>
+<h3 align="center">A passionate frontend developer, working Freelance with American Agencies</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kirthikiran&label=Profile%20views&color=0e75b6&style=flat" alt="kirthikiran" /> </p>
 
@@ -22,7 +22,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kirthi-k-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kirthi-k-dev" height="30" width="40" /></a>
-<a href="https://fb.com/kiran.kirthi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kiran.kirthi" height="30" width="40" /></a>
 <a href="https://discord.gg/scuderia7422" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="scuderia7422" height="30" width="40" /></a>
 </p>
 
